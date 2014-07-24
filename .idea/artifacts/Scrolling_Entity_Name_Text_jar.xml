@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Scrolling Entity Name Text:jar">
+    <output-path>$USER_HOME$/Dropbox/craftbukkit/plugins</output-path>
+    <root id="archive" name="Scrolling Entity Name Text.jar">
+      <element id="module-output" name="Scrolling Entity Name Text" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+name: Scrolling Entity Name Text
+version: 1.0
+main: me.JBoss925.scroll.Main
+commands:
+  scrolltext:
+    description: Allows players to edit the entities name after selecting them.
+    usage: /<command> <message>
+permissions:
+  scroll.choose.entity:
+    description: Allows players to right click an entity to change their scrolling text name.
+    default: op
+  scroll.change.entity:
+    description: Allows players to change an entites scrolling name.
+    default: op
