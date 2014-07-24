@@ -113,7 +113,7 @@ public class Main extends JavaPlugin implements Listener{
 
     @EventHandler
     public void onEntityRightClick(PlayerInteractEntityEvent e){
-        if(e.getPlayer().hasPermission("scroll.choose.entity")){
+        if(e.getPlayer().hasPermission("scroll.choose.entity") && e.getPlayer().isSneaking()){
             e.setCancelled(true);
             PE.put(e.getPlayer().getUniqueId(), e.getRightClicked());
             e.getPlayer().sendMessage(ChatColor.GREEN + "" + ChatColor.BOLD + "Entity (instance of " + ChatColor.GREEN + "" + ChatColor.BOLD + e.getRightClicked().getType().toString() + ChatColor.GREEN + "" + ChatColor.BOLD + ") has been selected!");

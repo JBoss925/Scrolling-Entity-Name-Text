@@ -67,11 +67,9 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/me/JBoss925/scroll/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="82" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.41616768" vertical-offset="697" max-vertical-offset="1875">
+            <state line="115" column="92" selection-start="4790" selection-end="4790" vertical-scroll-proportion="0.6967341" vertical-offset="1232" max-vertical-offset="1875">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#673#687#0" expanded="true" />
-                <element signature="e#817#834#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,8 +185,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,6 +236,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -263,19 +274,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -371,8 +369,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -391,13 +389,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32863188" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -423,11 +421,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/me/JBoss925/scroll/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="82" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1920">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/JBoss925/scroll/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="92" column="60" selection-start="3814" selection-end="3814" vertical-scroll-proportion="0.0" vertical-offset="1102" max-vertical-offset="1935">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -444,8 +456,6 @@
         <state line="97" column="57" selection-start="4004" selection-end="4004" vertical-scroll-proportion="0.0" vertical-offset="1087" max-vertical-offset="1860">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -462,8 +472,6 @@
         <state line="80" column="31" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1605">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -480,8 +488,6 @@
         <state line="74" column="0" selection-start="2823" selection-end="2823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,8 +504,6 @@
         <state line="74" column="0" selection-start="2823" selection-end="2823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -520,11 +524,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/JBoss925/scroll/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="82" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.41616768" vertical-offset="697" max-vertical-offset="1875">
+        <state line="115" column="92" selection-start="4790" selection-end="4790" vertical-scroll-proportion="0.6967341" vertical-offset="1232" max-vertical-offset="1875">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#673#687#0" expanded="true" />
-            <element signature="e#817#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
